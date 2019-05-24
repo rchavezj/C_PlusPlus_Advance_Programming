@@ -1,0 +1,3 @@
+# Makefile.dep created Wed Jun 22 15:47:47 PDT 2016
+hello.o: hello.cpp hello.h
+main.o: main.cpp hello.h
