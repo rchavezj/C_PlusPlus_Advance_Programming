@@ -4,47 +4,6 @@ This repository contains projects from a UCSC Advanced Programming course.
 
 ![alt tag](c%2B%2B.jpg)
 
-1. General Information
-  The generic part of the syllabus contains detailed information about prohibiting
-  cheating, due dates and times, submitting assignments, and verification of the submit.
-  Read it carefully, as you will be held responsible for it.
-  
-  Directory : The directory /afs/cats.ucsc.edu/courses/cmps109-wm/ and its
-  subdirectories contain all assignments, handouts, examples, old
-  exams, etc.
-  
-  Piazza : https://piazza.com/ is for questions and discussions that are
-  appropriate in the classroom or lab section.
-  
-  Assignments : All assignments must be submitted electronically and must
-  work on the Unix servers (unix.ucsc.edu).
-  
-  Due Dates : Due dates are announced in the README files in the course directory.
-  You must frequently check the README.
-  
-  Cheating : Cheating will not be tolerated. See the secion on cheating
-  in the generic part of the syllabus.
-  
-  Grades : To pass the course, both the programming component and the
-  testing component will be taken into consideration. Failing
-  either component may be cause to fail the course. Your final
-  grade will be computed as follows :
-    Programming assignments : 5 × 10% = 50%
-    Midterm and final tests in class : 2× 25% = 50%
-    Summer quarter does not have an exam week.
-
-2. Course Description from Catalog
-  CMPS-109. Advanced Programming. An introduction to object-oriented techniques
-  of software development including data abstraction, inheritance, polymorphism,
-  and object-oriented design. Extensive practice using a computer to solve
-  problems, including construction of graphical user interfaces and a multithreaded
-  client/server application. Prerequisites : CMPS-012B/M or CMPS-013H.
-
-
-3. Textbooks and References
-  Only the first textbook (by Stroustrup) is listed as ‘‘required’’. The others are
-  optional references.
-
       (1) Bjarne Stroustrup : Prog ramming Principles and Practice Using C++,
 second edition. Addison-Wesley, 2014. ISBN 0-321-99278-4. This is an elementary
 textbook for a first course in C++. The previous edition will also
@@ -123,15 +82,3 @@ Algorithms and maps.
       (10) Graphical user interfaces (GUI). Threads. Sockets. Client/server applications.
       
       (11) Miscellaneous other topics : TBA.
-
-
-5. Students with Disabilities
-  If you qualify for classroom accommodations because of a disability, please submit
-  your Accommodation Authorization Letter from the Disability Resource Center
-  (DRC) to me as soon as possible, preferably within the first week of the quarter.
-  Contact DRC by phone at 831-459-2089 or by email at drc@ucsc.edu for more information.
-
-
-6. Pair Programming
-  You may do pair programming if you choose. You are responsible for choosing a
-  partner with whom you can work. Read the guidelines in the directory pair-programming/.
