@@ -2,7 +2,7 @@
 
 This repository contains the assignments from the UCSC course CMPS 109, Advanced Programming.
 
-![alt tag](https://github.com/OverRatedTech/CMPS_109_Advance_Programming_Summer_16/blob/master/c%2B%2B.jpg)
+![alt tag](c%2B%2B.jpg)
 
 1. General Information
   The generic part of the syllabus contains detailed information about prohibiting
