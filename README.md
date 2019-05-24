@@ -1,6 +1,6 @@
-# CMPS_109_Advance_Programming_Summer_16
+# Advance_Programming
 
-This repository contains the assignments from the UCSC course CMPS 109, Advanced Programming.
+This repository contains projects from a UCSC Advanced Programming course.
 
 ![alt tag](c%2B%2B.jpg)
 
